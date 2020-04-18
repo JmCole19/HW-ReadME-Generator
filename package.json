@@ -1,0 +1,25 @@
+{
+  "name": "HW-ReadME-Generator",
+  "version": "1.0.0",
+  "description": "ReadMe Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JmCole19/HW-ReadME-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JmCole19/HW-ReadME-Generator/issues"
+  },
+  "homepage": "https://github.com/JmCole19/HW-ReadME-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "path": "^0.12.7"
+  }
+}
