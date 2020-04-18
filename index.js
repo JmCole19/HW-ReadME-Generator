@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const api = require("./utils/api");
+// const api = require("./utils/api");
 const path = require("path");
 const generateMarkdown = require("./utils/generateMarkdown");
 const fs  = require('fs');
